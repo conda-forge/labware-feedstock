@@ -1,5 +1,5 @@
 context:
-  version: "0.2.5"
+  version: "0.2.6"
 
 package:
   name: labware
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/labware/labware-${{ version }}.tar.gz
-  sha256: 2a00d027844d51c29d1c8c69a5e65feab413c0e0935361e6b2679516f9c3311e
+  sha256: 7f575ed8cfe27f1a09f31324955873ca62c79f1207464a8b265ec64c0fa41a9d
 
 build:
   number: 0
